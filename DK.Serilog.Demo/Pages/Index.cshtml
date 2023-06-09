@@ -1,0 +1,32 @@
+﻿@page
+@using DK.Serilog.Demo.Services
+@using DK.Serilog.Demo.Services.Emp
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<div class="row">
+    <table class="arrowes-table table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var emp in ViewData["Employees"] as IList<Employee>)
+            {
+                <tr>
+                    <td>@emp.Id</td>
+                    <td>@emp.Name</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,200 @@
+2023-06-04 05:33:54.719 [Information] User profile is available. Using '"C:\Users\DKU127\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-06-04 05:33:55.067 [Information] Now listening on: "https://localhost:7004"
+2023-06-04 05:33:55.088 [Information] Now listening on: "http://localhost:5017"
+2023-06-04 05:33:55.108 [Information] Application started. Press Ctrl+C to shut down.
+2023-06-04 05:33:55.135 [Information] Hosting environment: "Development"
+2023-06-04 05:33:55.157 [Information] Content root path: "C:\DK\DK.Serilog.Demo\DK.Serilog.Demo\"
+2023-06-04 05:33:55.968 [Information] Request starting HTTP/2 GET https://localhost:7004/ - -
+2023-06-04 05:33:56.055 [Information] Executing endpoint '"/Index"'
+2023-06-04 05:33:56.174 [Information] Route matched with "{page = \"/Index\"}". Executing page "/Index"
+2023-06-04 05:33:56.261 [Information] Executing handler method "DK.Serilog.Demo.Pages.IndexModel.OnGet" - ModelState is Valid
+2023-06-04 05:33:56.307 [Information] Trying to Fetch List Of Employees
+2023-06-04 05:33:56.378 [Warning] Value cannot be null. (Parameter 'employee.Name')
+2023-06-04 05:33:56.455 [Information] Fetched List Of Employees
+2023-06-04 05:33:56.494 [Information] Executed handler method "OnGet", returned result "".
+2023-06-04 05:33:56.543 [Information] Executing an implicit handler method - ModelState is Valid
+2023-06-04 05:33:56.602 [Information] Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+2023-06-04 05:33:56.829 [Information] Executed page "/Index" in 578.2592ms
+2023-06-04 05:33:56.879 [Information] Executed endpoint '"/Index"'
+2023-06-04 05:33:56.972 [Information] Request finished HTTP/2 GET https://localhost:7004/ - - - 200 - text/html;+charset=utf-8 1008.3666ms
+2023-06-04 05:33:57.029 [Information] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2023-06-04 05:33:57.029 [Information] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2023-06-04 05:33:57.086 [Information] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 57.6641ms
+2023-06-04 05:33:57.117 [Information] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 88.5168ms
+2023-06-04 05:34:57.927 [Information] User profile is available. Using '"C:\Users\DKU127\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-06-04 05:34:58.249 [Information] Now listening on: "https://localhost:7004"
+2023-06-04 05:34:58.270 [Information] Now listening on: "http://localhost:5017"
+2023-06-04 05:34:58.291 [Information] Application started. Press Ctrl+C to shut down.
+2023-06-04 05:34:58.314 [Information] Hosting environment: "Development"
+2023-06-04 05:34:58.332 [Information] Content root path: "C:\DK\DK.Serilog.Demo\DK.Serilog.Demo\"
+2023-06-04 05:34:59.120 [Information] Request starting HTTP/2 GET https://localhost:7004/ - -
+2023-06-04 05:34:59.203 [Information] Executing endpoint '"/Index"'
+2023-06-04 05:34:59.281 [Information] Route matched with "{page = \"/Index\"}". Executing page "/Index"
+2023-06-04 05:34:59.350 [Information] Executing handler method "DK.Serilog.Demo.Pages.IndexModel.OnGet" - ModelState is Valid
+2023-06-04 05:34:59.412 [Information] Trying to Fetch List Of Employees
+2023-06-04 05:34:59.489 [Warning] Value cannot be null. (Parameter 'employee.Name')
+2023-06-04 05:34:59.530 [Information] Fetched List Of Employees
+2023-06-04 05:34:59.566 [Information] Executed handler method "OnGet", returned result "".
+2023-06-04 05:34:59.609 [Information] Executing an implicit handler method - ModelState is Valid
+2023-06-04 05:34:59.641 [Information] Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+2023-06-04 05:34:59.847 [Information] Executed page "/Index" in 505.8789ms
+2023-06-04 05:34:59.917 [Information] Executed endpoint '"/Index"'
+2023-06-04 05:35:00.006 [Information] Request finished HTTP/2 GET https://localhost:7004/ - - - 200 - text/html;+charset=utf-8 891.6984ms
+2023-06-04 05:35:00.084 [Information] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2023-06-04 05:35:00.084 [Information] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2023-06-04 05:35:00.121 [Information] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 37.6383ms
+2023-06-04 05:35:00.156 [Information] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 72.0165ms
+2023-06-04 05:35:02.168 [Information] Request starting HTTP/2 GET https://localhost:7004/ - -
+2023-06-04 05:35:02.188 [Information] Executing endpoint '"/Index"'
+2023-06-04 05:35:02.210 [Information] Route matched with "{page = \"/Index\"}". Executing page "/Index"
+2023-06-04 05:35:02.235 [Information] Executing handler method "DK.Serilog.Demo.Pages.IndexModel.OnGet" - ModelState is Valid
+2023-06-04 05:35:02.263 [Information] Trying to Fetch List Of Employees
+2023-06-04 05:35:02.325 [Warning] Value cannot be null. (Parameter 'employee.Name')
+2023-06-04 05:35:02.360 [Information] Fetched List Of Employees
+2023-06-04 05:35:02.392 [Information] Executed handler method "OnGet", returned result "".
+2023-06-04 05:35:02.429 [Information] Executing an implicit handler method - ModelState is Valid
+2023-06-04 05:35:02.462 [Information] Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+2023-06-04 05:35:02.512 [Information] Executed page "/Index" in 277.0576ms
+2023-06-04 05:35:02.542 [Information] Executed endpoint '"/Index"'
+2023-06-04 05:35:02.578 [Information] Request finished HTTP/2 GET https://localhost:7004/ - - - 200 - text/html;+charset=utf-8 409.3866ms
+2023-06-04 05:35:02.621 [Information] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2023-06-04 05:35:02.630 [Information] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2023-06-04 05:35:02.658 [Information] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 28.3793ms
+2023-06-04 05:35:02.694 [Information] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 72.7475ms
+2023-06-04 05:35:03.007 [Information] Request starting HTTP/2 GET https://localhost:7004/ - -
+2023-06-04 05:35:03.028 [Information] Executing endpoint '"/Index"'
+2023-06-04 05:35:03.056 [Information] Route matched with "{page = \"/Index\"}". Executing page "/Index"
+2023-06-04 05:35:03.080 [Information] Executing handler method "DK.Serilog.Demo.Pages.IndexModel.OnGet" - ModelState is Valid
+2023-06-04 05:35:03.109 [Information] Trying to Fetch List Of Employees
+2023-06-04 05:35:03.174 [Warning] Value cannot be null. (Parameter 'employee.Name')
+2023-06-04 05:35:03.206 [Information] Fetched List Of Employees
+2023-06-04 05:35:03.240 [Information] Executed handler method "OnGet", returned result "".
+2023-06-04 05:35:03.273 [Information] Executing an implicit handler method - ModelState is Valid
+2023-06-04 05:35:03.300 [Information] Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+2023-06-04 05:35:03.333 [Information] Executed page "/Index" in 253.0021ms
+2023-06-04 05:35:03.375 [Information] Executed endpoint '"/Index"'
+2023-06-04 05:35:03.420 [Information] Request finished HTTP/2 GET https://localhost:7004/ - - - 200 - text/html;+charset=utf-8 413.7744ms
+2023-06-04 05:35:03.461 [Information] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2023-06-04 05:35:03.460 [Information] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2023-06-04 05:35:03.500 [Information] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 39.0728ms
+2023-06-04 05:35:03.524 [Information] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 76.2404ms
+2023-06-04 05:35:37.804 [Information] User profile is available. Using '"C:\Users\DKU127\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-06-04 05:42:57.512 [Information] Now listening on: "https://localhost:7004"
+2023-06-04 05:43:03.785 [Information] Now listening on: "http://localhost:5017"
+2023-06-04 05:43:03.813 [Information] Application started. Press Ctrl+C to shut down.
+2023-06-04 05:43:03.841 [Information] Hosting environment: "Development"
+2023-06-04 05:43:03.864 [Information] Content root path: "C:\DK\DK.Serilog.Demo\DK.Serilog.Demo\"
+2023-06-04 05:43:04.062 [Information] Request starting HTTP/2 GET https://localhost:7004/ - -
+2023-06-04 05:43:04.147 [Information] Executing endpoint '"/Index"'
+2023-06-04 05:43:04.226 [Information] Route matched with "{page = \"/Index\"}". Executing page "/Index"
+2023-06-04 05:43:04.271 [Information] Executing handler method "DK.Serilog.Demo.Pages.IndexModel.OnGet" - ModelState is Valid
+2023-06-04 05:43:04.310 [Information] Trying to Fetch List Of Employees
+2023-06-04 05:43:04.372 [Warning] Value cannot be null. (Parameter 'employee.Name')
+2023-06-04 05:43:04.407 [Information] Fetched List Of Employees
+2023-06-04 05:43:04.436 [Information] Executed handler method "OnGet", returned result "".
+2023-06-04 05:43:04.471 [Information] Executing an implicit handler method - ModelState is Valid
+2023-06-04 05:43:04.502 [Information] Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+2023-06-04 05:43:04.736 [Information] Executed page "/Index" in 472.8488ms
+2023-06-04 05:43:04.792 [Information] Executed endpoint '"/Index"'
+2023-06-04 05:43:04.890 [Information] Request finished HTTP/2 GET https://localhost:7004/ - - - 200 - text/html;+charset=utf-8 830.9187ms
+2023-06-04 05:43:04.990 [Information] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2023-06-04 05:43:04.990 [Information] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2023-06-04 05:43:05.068 [Information] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 75.1010ms
+2023-06-04 05:43:05.112 [Information] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 122.2826ms
+2023-06-04 05:43:06.037 [Information] Request starting HTTP/2 GET https://localhost:7004/ - -
+2023-06-04 05:43:06.060 [Information] Executing endpoint '"/Index"'
+2023-06-04 05:43:06.090 [Information] Route matched with "{page = \"/Index\"}". Executing page "/Index"
+2023-06-04 05:43:06.122 [Information] Executing handler method "DK.Serilog.Demo.Pages.IndexModel.OnGet" - ModelState is Valid
+2023-06-04 05:43:06.155 [Information] Trying to Fetch List Of Employees
+2023-06-04 05:43:06.230 [Warning] Value cannot be null. (Parameter 'employee.Name')
+2023-06-04 05:43:06.261 [Information] Fetched List Of Employees
+2023-06-04 05:43:06.304 [Information] Executed handler method "OnGet", returned result "".
+2023-06-04 05:43:06.341 [Information] Executing an implicit handler method - ModelState is Valid
+2023-06-04 05:43:06.376 [Information] Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+2023-06-04 05:43:06.427 [Information] Executed page "/Index" in 305.7375ms
+2023-06-04 05:43:06.465 [Information] Executed endpoint '"/Index"'
+2023-06-04 05:43:06.513 [Information] Request finished HTTP/2 GET https://localhost:7004/ - - - 200 - text/html;+charset=utf-8 476.6130ms
+2023-06-04 05:43:06.560 [Information] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2023-06-04 05:43:06.575 [Information] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2023-06-04 05:43:06.604 [Information] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 34.4992ms
+2023-06-04 05:43:06.627 [Information] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 67.6807ms
+2023-06-04 16:02:38.717 [Information] User profile is available. Using '"C:\Users\DKU127\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-06-04 16:02:39.406 [Information] Now listening on: "https://localhost:7004"
+2023-06-04 16:02:39.446 [Information] Now listening on: "http://localhost:5017"
+2023-06-04 16:02:39.485 [Information] Application started. Press Ctrl+C to shut down.
+2023-06-04 16:02:39.528 [Information] Hosting environment: "Development"
+2023-06-04 16:02:39.563 [Information] Content root path: "C:\DK\DK.Serilog.Demo\DK.Serilog.Demo\"
+2023-06-04 16:02:40.685 [Information] Request starting HTTP/2 GET https://localhost:7004/ - -
+2023-06-04 16:02:41.162 [Information] Executing endpoint '"/Index"'
+2023-06-04 16:02:41.822 [Information] Route matched with "{page = \"/Index\"}". Executing page "/Index"
+2023-06-04 16:02:41.932 [Information] Executing handler method "DK.Serilog.Demo.Pages.IndexModel.OnGet" - ModelState is Valid
+2023-06-04 16:02:42.025 [Information] Trying to Fetch List Of Employees
+2023-06-04 16:02:42.149 [Warning] Value cannot be null. (Parameter 'employee.Name')
+2023-06-04 16:02:42.224 [Information] Fetched List Of Employees
+2023-06-04 16:02:42.343 [Information] Executed handler method "OnGet", returned result "".
+2023-06-04 16:02:42.443 [Information] Executing an implicit handler method - ModelState is Valid
+2023-06-04 16:02:42.510 [Information] Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+2023-06-04 16:02:42.926 [Information] Executed page "/Index" in 1019.0741ms
+2023-06-04 16:02:43.056 [Information] Executed endpoint '"/Index"'
+2023-06-04 16:02:43.244 [Information] Request finished HTTP/2 GET https://localhost:7004/ - - - 200 - text/html;+charset=utf-8 2569.2535ms
+2023-06-04 16:02:43.330 [Information] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2023-06-04 16:02:43.349 [Information] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2023-06-04 16:02:43.434 [Information] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 104.1936ms
+2023-06-04 16:02:45.267 [Information] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 1917.9933ms
+2023-06-04 16:03:12.771 [Information] User profile is available. Using '"C:\Users\DKU127\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-06-04 16:03:13.087 [Information] Now listening on: "https://localhost:7004"
+2023-06-04 16:03:13.111 [Information] Now listening on: "http://localhost:5017"
+2023-06-04 16:03:13.138 [Information] Application started. Press Ctrl+C to shut down.
+2023-06-04 16:03:13.172 [Information] Hosting environment: "Development"
+2023-06-04 16:03:13.196 [Information] Content root path: "C:\DK\DK.Serilog.Demo\DK.Serilog.Demo\"
+2023-06-04 16:03:13.622 [Information] Request starting HTTP/2 GET https://localhost:7004/ - -
+2023-06-04 16:03:13.715 [Information] Executing endpoint '"/Index"'
+2023-06-04 16:03:13.794 [Information] Route matched with "{page = \"/Index\"}". Executing page "/Index"
+2023-06-04 16:03:13.840 [Information] Executing handler method "DK.Serilog.Demo.Pages.IndexModel.OnGet" - ModelState is Valid
+2023-06-04 16:03:13.899 [Information] Trying to Fetch List Of Employees
+2023-06-04 16:03:13.979 [Warning] Value cannot be null. (Parameter 'employee.Name')
+2023-06-04 16:03:14.014 [Information] Fetched List Of Employees
+2023-06-04 16:03:14.054 [Information] Executed handler method "OnGet", returned result "".
+2023-06-04 16:03:14.102 [Information] Executing an implicit handler method - ModelState is Valid
+2023-06-04 16:03:14.143 [Information] Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+2023-06-04 16:03:14.362 [Information] Executed page "/Index" in 531.6887ms
+2023-06-04 16:03:14.429 [Information] Executed endpoint '"/Index"'
+2023-06-04 16:03:14.521 [Information] Request finished HTTP/2 GET https://localhost:7004/ - - - 200 - text/html;+charset=utf-8 906.0918ms
+2023-06-04 16:03:14.591 [Information] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2023-06-04 16:03:14.591 [Information] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2023-06-04 16:03:14.656 [Information] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 65.8774ms
+2023-06-04 16:03:14.705 [Information] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 114.4097ms
+2023-06-04 16:03:16.722 [Information] Request starting HTTP/2 GET https://localhost:7004/ - -
+2023-06-04 16:03:16.742 [Information] Executing endpoint '"/Index"'
+2023-06-04 16:03:16.765 [Information] Route matched with "{page = \"/Index\"}". Executing page "/Index"
+2023-06-04 16:03:16.789 [Information] Executing handler method "DK.Serilog.Demo.Pages.IndexModel.OnGet" - ModelState is Valid
+2023-06-04 16:03:16.818 [Information] Trying to Fetch List Of Employees
+2023-06-04 16:03:16.882 [Warning] Value cannot be null. (Parameter 'employee.Name')
+2023-06-04 16:03:16.911 [Information] Fetched List Of Employees
+2023-06-04 16:03:16.943 [Information] Executed handler method "OnGet", returned result "".
+2023-06-04 16:03:16.975 [Information] Executing an implicit handler method - ModelState is Valid
+2023-06-04 16:03:17.005 [Information] Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+2023-06-04 16:03:17.049 [Information] Executed page "/Index" in 260.3623ms
+2023-06-04 16:03:17.091 [Information] Executed endpoint '"/Index"'
+2023-06-04 16:03:17.146 [Information] Request finished HTTP/2 GET https://localhost:7004/ - - - 200 - text/html;+charset=utf-8 423.2908ms
+2023-06-04 16:03:17.184 [Information] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2023-06-04 16:03:17.192 [Information] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2023-06-04 16:03:17.225 [Information] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 32.9102ms
+2023-06-04 16:03:17.249 [Information] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 64.6998ms
+2023-06-04 16:03:17.969 [Information] Request starting HTTP/2 GET https://localhost:7004/ - -
+2023-06-04 16:03:17.990 [Information] Executing endpoint '"/Index"'
+2023-06-04 16:03:18.012 [Information] Route matched with "{page = \"/Index\"}". Executing page "/Index"
+2023-06-04 16:03:18.038 [Information] Executing handler method "DK.Serilog.Demo.Pages.IndexModel.OnGet" - ModelState is Valid
+2023-06-04 16:03:18.069 [Information] Trying to Fetch List Of Employees
+2023-06-04 16:03:18.142 [Warning] Value cannot be null. (Parameter 'employee.Name')
+2023-06-04 16:03:18.181 [Information] Fetched List Of Employees
+2023-06-04 16:03:18.214 [Information] Executed handler method "OnGet", returned result "".
+2023-06-04 16:03:18.246 [Information] Executing an implicit handler method - ModelState is Valid
+2023-06-04 16:03:18.277 [Information] Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+2023-06-04 16:03:18.316 [Information] Executed page "/Index" in 277.6779ms
+2023-06-04 16:03:18.359 [Information] Executed endpoint '"/Index"'
+2023-06-04 16:03:18.408 [Information] Request finished HTTP/2 GET https://localhost:7004/ - - - 200 - text/html;+charset=utf-8 438.1276ms
+2023-06-04 16:03:18.442 [Information] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2023-06-04 16:03:18.442 [Information] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2023-06-04 16:03:18.482 [Information] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 39.6393ms
+2023-06-04 16:03:18.506 [Information] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 63.5773ms

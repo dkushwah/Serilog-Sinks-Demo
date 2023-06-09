@@ -12,7 +12,7 @@ var logger= new LoggerConfiguration()
     .CreateLogger();
 
 var builder = WebApplication.CreateBuilder(args);
-
+Serilog.Debugging.SelfLog.Enable(Console.WriteLine);
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddScoped<IEmployeeManager, EmployeeManager>();

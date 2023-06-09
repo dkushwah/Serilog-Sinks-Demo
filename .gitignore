@@ -6,3 +6,4 @@
 /DK.Serilog.Demo/obj
 /DK.Serilog.Demo.Services/bin/Debug/net6.0
 /DK.Serilog.Demo.Services/obj
+.vs/*
